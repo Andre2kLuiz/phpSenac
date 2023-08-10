@@ -6,6 +6,8 @@
     <title>Curso Senac PHP</title>
 </head>
 <body>
-    <?echo "Óla Mundo";?>
+    <?echo
+     "Óla Mundo";
+     ?>
 </body>
 </html>
